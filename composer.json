@@ -1,0 +1,21 @@
+{
+    "name": "inilabs/model-authorizer",
+    "description": "model creator information collector",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Inilabs\\ModelAuthorizer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "inilabs"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^8.0"
+    }
+}
